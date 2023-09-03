@@ -1,2 +1,2 @@
 # html-portfolio
-An] portfolio of my small html projects.
+An portfolio of my small html projects.
